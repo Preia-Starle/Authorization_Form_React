@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Additionaly it was modified to show a simple client-only side authorization form based on Codecademy tutorial ['React Components - Authorization Form'](https://codecademy.com).
 
 ## Available Scripts
 
